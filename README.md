@@ -68,7 +68,7 @@ The (initial) plan for the topics of each of our classes is the following:
 ### Challenges
 
 - [Challenge 1](https://www.codabench.org/competitions/13881/) will run from 23-February 2026 to 22-March 2026
-- Challenge 2 will run from 23-March 2026 to 04-May 2026
+- [Challenge 2](https://www.codabench.org/competitions/15044/) will run from 23-March 2026 to 04-May 2026
 
 ### Textbooks
 - Many examples and explanations given in class were inspired (or unashamedly copied) from Cosma Shalizi’s excellent lecture notes *“The truth about linear regression”* available [here](https://www.stat.cmu.edu/~cshalizi/TALR/).
