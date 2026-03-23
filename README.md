@@ -48,14 +48,14 @@ The (initial) plan for the topics of each of our classes is the following:
   
 - **Week 8.1 (30-March 2026)**
   - CM8: Ensemble methods
-  - TD3: Some questions from previous exams
+  - TD3: Gradient boosting
 
 - **Week 8.2 (03-April 2026)**
   - TD4: Some questions from previous exams
 
 - **Week 9 (13-April 2026)**
   - CM9: ML competitions, metrics, etc.
-  - TD5: Gradient boosting
+  - TD5: Some questions from previous exams
 
 - **Week 10 (20-April 2026)**
   - CM10: Tabular Foundational Models
